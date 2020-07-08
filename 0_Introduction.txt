@@ -1,0 +1,33 @@
+C++ Overview
+
+C++ is a statically typed, compiled, general-purpose, case-sensitive, free-form programming language that 
+supports procedural, object-oriented, and generic programming.
+
+C++ is regarded as a middle-level language, as it comprises a combination of both high-level and low-level language features.
+
+C++ was developed by Bjarne Stroustrup starting in 1979 at Bell Labs in Murray Hill, New Jersey, as an enhancement to the 
+C language and originally named C with Classes but later it was renamed C++ in 1983.
+
+C++ is a superset of C, and that virtually any legal C program is a legal C++ program.
+
+Note − A programming language is said to use static typing when type checking is performed during compile-time 
+as opposed to run-time.
+
+
+Object-Oriented Programming
+
+C++ fully supports object-oriented programming, including the four pillars of object-oriented development −
+
+Encapsulation
+Data hiding
+Inheritance
+Polymorphism
+
+
+
+For installation:
+1. Install Mingw-64
+2. set environment variable : c:\mingw-w64\x86_64-8.1.0-win32-seh-rt_v6-rev0\mingw64\bin
+3. cmd 
+4. g++ filename.cpp 
+5. filename.exe 
