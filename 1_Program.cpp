@@ -17,3 +17,7 @@ int main(){
     count<<NEWLINE;
     return 0;
 }
+
+//g++ programname
+// ./a.out
+
