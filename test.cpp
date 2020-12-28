@@ -15,3 +15,10 @@ void func(void){
     count<<"i is "<<i;
     count<<" and count is "<<count<<endl;
 }
+
+
+int max(int a,int b);
+
+int max(int a, int b){
+    return (a>b ?a:b)
+}

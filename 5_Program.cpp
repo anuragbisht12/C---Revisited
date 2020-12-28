@@ -22,7 +22,7 @@ to the parameter affect the argument.
 3	Call by Reference
 This method copies the reference of an argument into the formal parameter. Inside the function, 
 the reference is used to access the actual argument used in the call. This means that changes
- made to the parameter affect the argument.
+made to the parameter affect the argument.
 
 By default, C++ uses call by value to pass arguments. In general, this means that code within a 
 function cannot alter the arguments used to call the function and above mentioned example while 
@@ -108,4 +108,4 @@ int sum(int a, int b = 20)
     result = a + b;
 
     return (result);
-}
+} 
